@@ -1,0 +1,17 @@
+# maukan pengguna
+
+a = 15
+print (a)
+
+#casting tipe data
+b = input ("masukan nilai b :")
+print (" nilai b adalah : ", b , type  (b))
+
+c = int ( input ("masukan nilai c :"))
+print ("nilai c adalah :", c, type (c))
+
+d = float ( input (" masukan nilai d :"))
+print (" nilai d adalah :", d, type (c))
+
+e = bool(int(input("masukan nilai e :")))
+print ( " nilai e adalah :", e, type (e))
